@@ -4,7 +4,8 @@ Apaixonado por tecnologia!
 
 - 📚 Estudante de Técnico em informática para internet na <a href="https://qi.edu.br">QI Faculdade & Escola Técnica</a>
 - 💻 Estudando JavaScript
-- 
+
+
 <br>
 
 <div align="center" style="display: flex; flex-direction: row;">
